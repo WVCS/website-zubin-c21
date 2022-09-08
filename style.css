@@ -23,7 +23,6 @@ nav {
   margin: 0;
   overflow: hidden;
   position: fixed;
-  word-spacing: 15px;
 }
 li {
   float: left;
