@@ -15,6 +15,7 @@ img {
 }
 nav {
   list-style-type: none;
+  font: 15px Courier New, monospace;
   background-color: #333;
   width: 100%;
   left: 0;
@@ -22,6 +23,7 @@ nav {
   margin: 0;
   overflow: hidden;
   position: fixed;
+  word-spacing: 15px;
 }
 li {
   float: left;
